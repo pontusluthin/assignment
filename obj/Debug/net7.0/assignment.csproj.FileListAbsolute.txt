@@ -1,0 +1,40 @@
+/Users/pontusvendre/Desktop/assignment/bin/Debug/net7.0/assignment
+/Users/pontusvendre/Desktop/assignment/bin/Debug/net7.0/assignment.deps.json
+/Users/pontusvendre/Desktop/assignment/bin/Debug/net7.0/assignment.runtimeconfig.json
+/Users/pontusvendre/Desktop/assignment/bin/Debug/net7.0/assignment.dll
+/Users/pontusvendre/Desktop/assignment/bin/Debug/net7.0/assignment.pdb
+/Users/pontusvendre/Desktop/assignment/obj/Debug/net7.0/assignment.csproj.AssemblyReference.cache
+/Users/pontusvendre/Desktop/assignment/obj/Debug/net7.0/assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pontusvendre/Desktop/assignment/obj/Debug/net7.0/assignment.AssemblyInfoInputs.cache
+/Users/pontusvendre/Desktop/assignment/obj/Debug/net7.0/assignment.AssemblyInfo.cs
+/Users/pontusvendre/Desktop/assignment/obj/Debug/net7.0/assignment.csproj.CoreCompileInputs.cache
+/Users/pontusvendre/Desktop/assignment/obj/Debug/net7.0/assignment.dll
+/Users/pontusvendre/Desktop/assignment/obj/Debug/net7.0/refint/assignment.dll
+/Users/pontusvendre/Desktop/assignment/obj/Debug/net7.0/assignment.pdb
+/Users/pontusvendre/Desktop/assignment/obj/Debug/net7.0/assignment.genruntimeconfig.cache
+/Users/pontusvendre/Desktop/assignment/obj/Debug/net7.0/ref/assignment.dll
+/Users/pontusvendre/Desktop/assignment/bin/Debug/net7.0/RestSharp.dll
+/Users/pontusvendre/Desktop/assignment/obj/Debug/net7.0/assignment.csproj.CopyComplete
+/Users/pontusvendre/Desktop/assignment/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/Users/pontusvendre/Desktop/assignment/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/pontusvendre/Desktop/assignment/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/pontusvendre/Desktop/assignment (kopia)/bin/Debug/net7.0/assignment
+/Users/pontusvendre/Desktop/assignment (kopia)/bin/Debug/net7.0/assignment.deps.json
+/Users/pontusvendre/Desktop/assignment (kopia)/bin/Debug/net7.0/assignment.runtimeconfig.json
+/Users/pontusvendre/Desktop/assignment (kopia)/bin/Debug/net7.0/assignment.dll
+/Users/pontusvendre/Desktop/assignment (kopia)/bin/Debug/net7.0/assignment.pdb
+/Users/pontusvendre/Desktop/assignment (kopia)/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/Users/pontusvendre/Desktop/assignment (kopia)/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/pontusvendre/Desktop/assignment (kopia)/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/pontusvendre/Desktop/assignment (kopia)/bin/Debug/net7.0/RestSharp.dll
+/Users/pontusvendre/Desktop/assignment (kopia)/obj/Debug/net7.0/assignment.csproj.AssemblyReference.cache
+/Users/pontusvendre/Desktop/assignment (kopia)/obj/Debug/net7.0/assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pontusvendre/Desktop/assignment (kopia)/obj/Debug/net7.0/assignment.AssemblyInfoInputs.cache
+/Users/pontusvendre/Desktop/assignment (kopia)/obj/Debug/net7.0/assignment.AssemblyInfo.cs
+/Users/pontusvendre/Desktop/assignment (kopia)/obj/Debug/net7.0/assignment.csproj.CoreCompileInputs.cache
+/Users/pontusvendre/Desktop/assignment (kopia)/obj/Debug/net7.0/assignment.csproj.CopyComplete
+/Users/pontusvendre/Desktop/assignment (kopia)/obj/Debug/net7.0/assignment.dll
+/Users/pontusvendre/Desktop/assignment (kopia)/obj/Debug/net7.0/refint/assignment.dll
+/Users/pontusvendre/Desktop/assignment (kopia)/obj/Debug/net7.0/assignment.pdb
+/Users/pontusvendre/Desktop/assignment (kopia)/obj/Debug/net7.0/assignment.genruntimeconfig.cache
+/Users/pontusvendre/Desktop/assignment (kopia)/obj/Debug/net7.0/ref/assignment.dll

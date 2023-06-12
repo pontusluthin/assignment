@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0p+zjAkeyqj5csZ0r6xUE7bcacxMg6NfbQkM5hOnWjv86eUt8OkA9Au5aobDENmVjWNMG0WrJiy/s+FO2nszqg==",
+  "success": true,
+  "projectFilePath": "/Users/pontusvendre/Desktop/assignment (kopia)/assignment.csproj",
+  "expectedPackageFiles": [
+    "/Users/pontusvendre/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/Users/pontusvendre/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/pontusvendre/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/pontusvendre/.nuget/packages/restsharp/108.0.3/restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
